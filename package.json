@@ -1,0 +1,17 @@
+{
+    "name": "zip2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "node ./index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "adm-zip": "^0.4.11",
+        "archiver": "^3.0.0",
+        "chilkat_node10_win32": "^9.50.75"
+    }
+}
